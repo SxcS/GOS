@@ -1,1 +1,1 @@
-# GOS SxcS
+Gaming On Steroids
